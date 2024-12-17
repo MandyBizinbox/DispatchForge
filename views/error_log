@@ -1,0 +1,1 @@
+[17-Dec-2024 11:36:37 UTC] PHP Warning:  file_get_contents(../settings.json): Failed to open stream: No such file or directory in /home/beskerm/public_html/dispatchforge/views/settings.php on line 6
